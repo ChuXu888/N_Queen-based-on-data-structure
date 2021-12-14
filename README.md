@@ -1,0 +1,1 @@
+# N_Queen-based-on-data-structure
